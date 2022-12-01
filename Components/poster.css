@@ -1,0 +1,11 @@
+
+/* *{
+    background-color:#212121;
+    color: whitesmoke;
+}   */
+
+
+video[poster]
+{
+    object-fit:fill;
+}

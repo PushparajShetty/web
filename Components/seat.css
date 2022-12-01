@@ -1,0 +1,29 @@
+.s:hover{
+  background-color: green;
+  color: whitesmoke;
+}
+
+.s{
+    
+    
+    font-size: 22px;
+    border: 2px solid green;
+    height: 50px;
+    width: 50px;
+    
+     /* padding: 0px 1px 20px; */
+     line-height: 9px;
+    letter-spacing: 0.3px;
+    margin-left: 15px;
+    
+}
+
+#screen{
+  border:2px solid #F50057;
+  color:#F50057;
+}
+
+#screen:hover{
+  background-color: #F50057;
+  color: whitesmoke;
+}
